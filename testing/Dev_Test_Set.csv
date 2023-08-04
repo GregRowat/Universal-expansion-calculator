@@ -1,0 +1,26 @@
+name,mass,distance
+Mercury,25000,95.9876
+Venus,4684.8142,125.321
+Earth,1525.5,75.4392
+Mars,2586.74645,17.9323
+Jupiter,565.7374,21.1397
+Uranus,1373.01872,124.953
+Saturn,3273.5,76.222
+Neptune,289.2253,95.9863
+Pluto,632.46,72.0691
+Aphrodite,273.32,72.0691
+Ares,1000.5,128.484
+Cronus,5,150.123
+Hermes,50.77,150
+1a Mercury,1000,100
+2b Venus,875.25,75.75
+3c Earth,1250.555,250
+4d Mars,5000.1,50
+5e Jupiter,25.01,128.484
+6f Uranus,700,700
+7g Saturn,600,600
+8h Pluto,500,500
+hyphen-planet,400,400
+pla-1a,300,300
+pla 2B,200,200
+unique,1000000,1000
